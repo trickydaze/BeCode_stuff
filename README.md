@@ -4,6 +4,7 @@ Hoping to limit technical issues and improve knowledge sharing. :)
 Name | Operative System | Terminal distributor & version | Virtual Machine? | Python IDE | Pyhton version | Other | Updated |
 --- | --- | --- | --- | --- | --- | --- | --- |
 Francesco | MS Windows 10.18362 Pro | Ubuntu 20.04.1 LTS | Oracle Virtual Box 6.1 | **VS Code or Pycharm?** | 3.7.4 | not happy about WSL | 11/9/20 |
+Emre      | MS Windows 10.18362 Pro | Ubuntu 18.04.1 LTS | NO                     | Limetext                | 3.6   | No                  | 11/9/20 |
 
 ## Instructions
 Firstly, you clone the repository to your local.
