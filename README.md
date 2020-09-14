@@ -1,3 +1,4 @@
+
 ## Overview of chosen operative Systems, Linux distributor and Pyhton IDE
 Hoping to limit technical issues and improve knowledge sharing. :)
 
@@ -7,7 +8,7 @@ Francesco | MS Windows 10.18362 Pro | Ubuntu 20.04.1 LTS | Oracle Virtual Box 6.
 Emre      | MS Windows 10.18362 Pro | Ubuntu 18.04.1 LTS | NO                     | Limetext                | 3.6   | No                  | 11/9/20 |
 Orhan     | w10 pro                 | git bash           | no                     | Limetext                | 3.6   | No                  | 11/9/20 |
 Ankita    | Linux		    | Ubuntu		 | No			  | IntelliJ		    |       | No
-
+Selma     |MacOS Catalina |  Terminal 2.10 | - | - | - | -
 
 ## Instructions
 First, you clone the repository to your local.
