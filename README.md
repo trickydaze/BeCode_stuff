@@ -5,7 +5,9 @@ Name | Operative System | Terminal distributor & version | Virtual Machine? | Py
 --- | --- | --- | --- | --- | --- | --- | --- |
 Francesco | MS Windows 10.18362 Pro | Ubuntu 20.04.1 LTS | Oracle Virtual Box 6.1 | Pycharm Professional 2020.2.1 | 3.7.9 | not reccomending WSL | 12/9/20 |
 Emre      | MS Windows 10.18362 Pro | Ubuntu 18.04.1 LTS | NO                     | Limetext                | 3.6   | No                  | 11/9/20 |
-Orhan     | w10 pro                 | git bash           | no
+Orhan     | w10 pro                 | git bash           | no                     | Limetext                | 3.6   | No                  | 11/9/20 |
+
+
 
 ## Instructions
 First, you clone the repository to your local.
